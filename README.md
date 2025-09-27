@@ -12,7 +12,7 @@
 - [ ] Deserialization  
 - [ ] Date & time API  
 - [ ] Wrapper classes  
-- [✓] Generics basics  
+- [x] Generics basics  
 - [ ] Collections – ArrayList  
 - [ ] Collections – HashMap  
 - [ ] Collections – HashSet  
