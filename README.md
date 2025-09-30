@@ -13,9 +13,7 @@
 - [ ] Date & time API  
 - [ ] Wrapper classes  
 - [x] Generics basics  
-- [ ] Collections – ArrayList  
-- [ ] Collections – HashMap  
-- [ ] Collections – HashSet  
+
 
 ---
 
