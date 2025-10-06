@@ -1,7 +1,7 @@
 ## 📦 Learning Progress Tracker
 
 ### 🗓 Days 61–75: Advanced Core Java
-- [ ] Exception handling basics  
+- [x] Exception handling basics  
 - [x] Try-catch-finally  
 - [ ] Throw & throws  
 - [ ] Custom exception  
@@ -12,7 +12,8 @@
 - [ ] Deserialization  
 - [ ] Date & time API  
 - [ ] Wrapper classes  
-- [x] Generics basics  
+- [x] Generics basics  \
+- [x] Streams and Lambda
 
 
 ---
