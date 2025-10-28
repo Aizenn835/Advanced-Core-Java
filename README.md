@@ -3,7 +3,7 @@
 ### 🗓 Days 61–75: Advanced Core Java
 - [x] Exception handling basics  
 - [x] Try-catch-finally  
-- [ ] Throw & throws  
+- [x] Throw & throws  
 - [ ] Custom exception  
 - [x] File handling – create & write  
 - [x] File handling – read  
