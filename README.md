@@ -3,11 +3,11 @@
 ### 🗓 Days 61–75: Advanced Core Java
 - [x] Exception handling basics  
 - [x] Try-catch-finally  
-- [ ] Throw & throws  
+- [x] Throw & throws  
 - [ ] Custom exception  
-- [ ] File handling – create & write  
-- [ ] File handling – read  
-- [ ] File handling – append  
+- [x] File handling – create & write  
+- [x] File handling – read  
+- [x] File handling – append  
 - [ ] Serialization basics  
 - [ ] Deserialization  
 - [ ] Date & time API  
