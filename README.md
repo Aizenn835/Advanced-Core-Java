@@ -4,7 +4,7 @@
 - [x] Exception handling basics  
 - [x] Try-catch-finally  
 - [x] Throw & throws  
-- [ ] Custom exception  
+- [x] Custom exception  
 - [x] File handling – create & write  
 - [x] File handling – read  
 - [x] File handling – append  
