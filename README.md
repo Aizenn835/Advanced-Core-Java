@@ -12,8 +12,9 @@
 - [ ] Deserialization  
 - [ ] Date & time API  
 - [ ] Wrapper classes  
-- [x] Generics basics  \
+- [x] Generics basics  
 - [x] Streams and Lambda
+- [x] Enumeration  
 
 
 ---
